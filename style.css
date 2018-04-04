@@ -2,6 +2,7 @@
 
 body {
 	background-color: grey;
+	display: flex;
 }
 
 h1, h2, p {
@@ -17,3 +18,5 @@ p {
 h1 {
 	font-size: 1em;
 	}
+
+	
